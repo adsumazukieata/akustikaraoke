@@ -1,0 +1,38 @@
+{
+  "name": "AkustiKaraoke",
+  "short_name": "AkustiKaraoke",
+  "start_url": "https://akustikaraoke.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "akustikaraoke.blogspot.com adalah blog bernyanyi karaoke secara gratis. Bernyanyilah bersama jutaan lagu karaoke, dengan musik dan lirik, gunakan video khusus dengan jutaan penggemar Karaoke yang telah bernyanyi dengan sepenuh hati.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-axJjZZqpvOc/YTOPOCyfg2I/AAAAAAAAA08/mkeN5tdoYuEbTsfwIbop59QvhPk0E7u0ACLcBGAsYHQ/s48/logoakustik48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-wrF09MkTOtg/YTOPOXkixMI/AAAAAAAAA1A/XdvlhJtcqUMdvX7wUc_J73njD7x2tCOvgCLcBGAsYHQ/s72/logoakustik72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-itmJaNig3vk/YTOPO8GRd0I/AAAAAAAAA1I/vjaoM2nj0HcCbeWNR9cCo-ksyI0lbTslACLcBGAsYHQ/s96/logoakustik96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WeMMP5E5-Eg/YTOPNXr73aI/AAAAAAAAA00/CkzIkU3I-O8ISMm91QNgc5AC3zTB7aELQCLcBGAsYHQ/s144/logoakustik144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xECq0i1i6JU/YTOPNYqPfII/AAAAAAAAA0w/LNJDKIYsFmwpx_TgXKj_8kQkEwEZ7CMSACLcBGAsYHQ/s168/logoakustik168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-INlbHVs3XKY/YTOPNVTGftI/AAAAAAAAA04/bhZBnRSTYKcDfVnuP4ka36W2xG0g9II7wCLcBGAsYHQ/s192/logoakustik192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_TAPL0zVZK0/YTOPOd6AbJI/AAAAAAAAA1E/gQ3W58Razpw6CkDNZsUu5-UXCzEIlkXkwCLcBGAsYHQ/s512/logoakustik512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
